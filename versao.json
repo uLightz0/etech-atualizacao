@@ -1,0 +1,6 @@
+{
+  "versao": "2.25.0",
+  "mensagem": "Melhorias de velocidade nas consultas do PDV, backup automatico diario, tela guiada de primeiros passos e botao de reportar problema.",
+  "data": "2026-10-02",
+  "obrigatoria": false
+}
