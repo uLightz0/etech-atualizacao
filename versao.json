@@ -1,6 +1,6 @@
 {
-  "versao": "2.25.2",
-  "mensagem": "Melhorias de velocidade nas consultas do PDV, backup automatico diario, tela guiada de primeiros passos e botao de reportar problema.",
-  "data": "2026-10-02",
+  "versao": "2.28.1",
+  "mensagem": "Coletor captura melhor os nomes, tela de Ajuda organizada por categorias e correcoes visuais (botao Analisar e rolagem das Configuracoes).",
+  "data": "2026-10-05",
   "obrigatoria": false
 }
